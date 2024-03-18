@@ -13,6 +13,10 @@ body {
     font-size: 1.5rem;
   }
   
+  h3 {
+    font-size: 1.75rem;
+    color: gray;
+  }
   header {
     background-color:rgb(170, 163, 163);
     text-align: left;
@@ -67,8 +71,7 @@ body {
     border-collapse: collapse;
     width: 100%;
   }
-  
-  th,
+
   td {
     border-bottom: 1px solid #ddd;
     padding: 15px;
@@ -76,7 +79,7 @@ body {
   }
   
   th {
-    background-color: #04aa6d;
+    background-color: #e2cc28;
     color: white;
   }
   tr:nth-child(even) {
