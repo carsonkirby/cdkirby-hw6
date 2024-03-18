@@ -1,2 +1,2 @@
 # cdkirby-hw6
- My BAIS:3300 homework 6 repository
+ My respository for my Digital Product Managment class personal website.
