@@ -18,6 +18,17 @@ body {
     color: gray;
   }
 
+  h4 {
+    font-size: 1.5rem;
+    color:  rgb(65, 62, 62);
+
+  }
+
+  h5 {
+    font-size: 1.5rem;
+    color:  rgb(65, 62, 62);
+  }
+
   header {
     background-color:rgb(170, 163, 163);
     text-align: left;
