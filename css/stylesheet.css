@@ -28,7 +28,7 @@ body {
   }
   
   footer {
-    background-color: skyblue;
+    background-color: rgb(231, 214, 120)
   }
   
   section {
@@ -109,3 +109,13 @@ body {
   #container {
     width: 85%;
     margin: 0 auto;
+  }
+
+  figcaption {
+    font-size: small;
+    padding: 2px;
+  }
+
+  figure {
+    text-align: center;
+  }
